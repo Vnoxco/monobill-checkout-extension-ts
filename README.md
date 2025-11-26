@@ -282,5 +282,5 @@ Key types:
 
 ## License
 
-This is an example extension. Use it as a starting point for your own extensions.
+MIT
 
